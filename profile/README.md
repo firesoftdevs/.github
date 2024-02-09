@@ -15,9 +15,9 @@ We aim to drive real-world impact through cutting-edge technology, providing inn
 
 ## Get in Touch
 
-- 📧 [info@firesoft.org](mailto:info@firesoft.org)
-- 🌐 [firesoft.org](https://firesoft.org)
-- 🐦 [@firesoftdevs](https://twitter.com/firesoftdevs)
+- 📧 E-mail: [info@firesoft.org](mailto:info@firesoft.org)
+- 🌐 Website: [firesoft.org](https://firesoft.org)
+- 🐦 Twitter (X): [@firesoftdevs](https://twitter.com/firesoftdevs)
 - 📸 Instagram: [@firesoftdevs](https://instagram.com/firesoftdevs)
 - 🎥 YouTube: [@firesoftdevs](https://youtube.com/@firesoftdevs)
 - 💬 Telegram: [firesoftdevs](https://t.me/firesoftdevs)
