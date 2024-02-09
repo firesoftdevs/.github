@@ -1,4 +1,4 @@
-# Firesoft Developers | FIRESOFT™
+# Firesoft LLC
 
 Welcome to Firesoft on GitHub! 🚀 We're a dynamic software development company, specializing in:
 
@@ -17,7 +17,12 @@ We aim to drive real-world impact through cutting-edge technology, providing inn
 
 - 📧 [info@firesoft.org](mailto:info@firesoft.org)
 - 🌐 [firesoft.org](https://firesoft.org)
-- 🐦 [@firesoft](https://twitter.com/firesoftdevs)
+- 🐦 [@firesoftdevs](https://twitter.com/firesoftdevs)
+- 📸 Instagram: [@firesoftdevs](https://instagram.com/firesoftdevs)
+- 🎥 YouTube: [@firesoftdevs](https://youtube.com/@firesoftdevs)
+- 💬 Telegram: [firesoftdevs](https://t.me/firesoftdevs)
+- 📈 LinkedIn: [firesoftdevs](https://linkedin.com/company/firesoftdevs)
+
 
 Join us in our journey of innovation! Check out our projects and let's make something great together.
 
