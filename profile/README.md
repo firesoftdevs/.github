@@ -1,6 +1,8 @@
-# Firesoft LLC
+![Firesoft LLC](/profile/firesoft.svg)
 
-Welcome to Firesoft on GitHub! 🚀 We're a dynamic software development company, specializing in:
+# Welcome to Firesoft LLC on GitHub! 🚀
+
+We're a dynamic software development company, specializing in:
 
 - 🌐 Web Development
 - 📱 Mobile Apps
@@ -23,8 +25,8 @@ We aim to drive real-world impact through cutting-edge technology, providing inn
 - 💬 Telegram: [firesoftdevs](https://t.me/firesoftdevs)
 - 📈 LinkedIn: [firesoftdevs](https://linkedin.com/company/firesoftdevs)
 
-
 Join us in our journey of innovation! Check out our projects and let's make something great together.
 
 ---
-**Firesoft** - Pioneering future technologies.
+
+**Firesoft LLC** - Shaping the future of technology.
