@@ -1,14 +1,14 @@
 <svg viewBox="4.187 -3.14 1124.611 257.059" xmlns="http://www.w3.org/2000/svg">
    <style>
-    :root[data-color-mode="light"] {
-      --logo-fill-color: black;
+      .logo {
+         fill: black;
+       }
+      @media (prefers-color-scheme: dark) {
+          .logo {
+         fill: white;
+       }
     }
-    :root[data-color-mode="dark"] {
-        --logo-fill-color: white;
-    }
-    .logo {
-      fill: var(--logo-fill-color);
-    }
+   
   </style>
   <g transform="matrix(0.1, 0, 0, -0.1, -402.352966, 677.647034)" class="logo">
     <path d="M14620 6710 c0 -29 2 -30 45 -30 l45 0 0 -120 0 -120 40 0 40 0 0 120 0 120 45 0 c43 0 45 1 45 30 l0 30 -130 0 -130 0 0 -30z"/>
